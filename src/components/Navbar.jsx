@@ -5,7 +5,6 @@ import { Link, NavLink } from 'react-router-dom'
 import {styles} from '../styles'
 import {logo, menu, close} from '../assets'
 import {navLinks} from '../constants'
-import { li } from 'framer-motion/client'
 
 
 const Navbar = () => {
