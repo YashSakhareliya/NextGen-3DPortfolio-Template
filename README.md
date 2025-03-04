@@ -1,12 +1,81 @@
-# React + Vite
+# NextGen-3DPortfolio-Template 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**A stunning 3D portfolio template built with React, Tailwind CSS, and Three.js.**
 
-Currently, two official plugins are available:
+This modern, fully responsive portfolio features interactive 3D models, smooth animations, dynamic project showcases, and is highly customizable to create a standout personal brand. Perfect for developers, designers, and creators looking to showcase their work with a futuristic touch. 🎨✨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Features 📌
+- Fully responsive and mobile-friendly 📱
+- Interactive 3D models using Three.js 🌐
+- Smooth animations with Framer Motion 🎭
+- Dark & light mode support 🌗
+- Dynamic project showcase 🏆
+- Easy to customize 🎨
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack 🛠️
+- React ⚛️
+- Tailwind CSS 🌟
+- Three.js 🖥️
+- Framer Motion 💫
+
+---
+
+## Installation ⚡
+
+### 1. Clone the repository:
+```bash
+git clone https://github.com/yashsakhareliya/NextGen-3DPortfolio-Template.git
+```
+
+### 2. Install dependencies:
+```bash
+cd NextGen-3DPortfolio-Template
+npm install
+```
+
+### 3. Start the development server:
+```bash
+npm run dev
+```
+Your portfolio will be available at **http://localhost:5173/**.
+
+---
+
+## Customization 🎨
+- Change the content and text in the `src/constants/index` directory.
+- Modify 3D models in the `src/components/canvas` directory.
+- Customize styles in `src/` or use Tailwind classes directly in JSX.
+
+---
+
+## Screenshots 📸
+Here are some screenshots of the website to showcase its design:
+
+![Screenshot 1](https://your-image-url.com/screenshot1.png)
+![Screenshot 2](https://your-image-url.com/screenshot2.png)
+![Screenshot 3](https://your-image-url.com/screenshot3.png)
+
+---
+
+## Demo 🎥
+[Live Demo](https://your-portfolio-link.com)
+
+---
+
+## Contributing 🤝
+Feel free to fork this repository, submit issues, or contribute pull requests. All contributions are welcome!
+
+---
+
+## License 📜
+This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE) file for details.
+
+---
+
+## GitHub Repository 🔗
+[NextGen-3DPortfolio-Template](https://github.com/yashsakhareliya/NextGen-3DPortfolio-Template)
+
