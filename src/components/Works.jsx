@@ -8,6 +8,17 @@ import { SectionWrapper } from "../hoc";
 import { projects } from "../constants";
 import { fadeIn, textVariant } from "../utils/motion";
 
+const ProjectCard = ({
+  index,
+  name,
+  description,
+  tags,
+  image,
+  source_code_link,
+}) => {
+
+}
+
 const Works = () => {
   return (
     <>
@@ -30,12 +41,12 @@ const Works = () => {
       </div>
 
       <div className='mt-20 flex flex-wrap gap-7'>
-        {/* {projects.map((project, index) => (
+        {projects.map((project, index) => (
           <ProjectCard key={`project-${index}`} index={index} {...project} />
-        ))} */}
+        ))}
       </div>
     </>
   )
 }
 
-export default Works
+export default SectionWrapper(Works,'work')
