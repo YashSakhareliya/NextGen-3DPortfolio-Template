@@ -1,3 +1,3 @@
-import StarWrapper from "./SectionWrapper";
+import SectionWrapper from "./SectionWrapper";
 
-export { StarWrapper };
+export { SectionWrapper };
