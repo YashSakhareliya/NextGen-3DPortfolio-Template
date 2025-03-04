@@ -55,9 +55,13 @@ Your portfolio will be available at **http://localhost:5173/**.
 ## Screenshots 📸
 Here are some screenshots of the website to showcase its design:
 
-![Screenshot 1](https://your-image-url.com/screenshot1.png)
-![Screenshot 2](https://your-image-url.com/screenshot2.png)
-![Screenshot 3](https://your-image-url.com/screenshot3.png)
+![Hero Page](https://github.com/user-attachments/assets/81775e3a-33b6-4e15-9512-7fdae9475041)
+![About Page](https://github.com/user-attachments/assets/a62e696b-7188-487d-8de2-698be781f23e)
+![Weok Page](https://github.com/user-attachments/assets/b003b0ef-c127-422d-bd87-c3a48ef5d762)
+![Tech Page](https://github.com/user-attachments/assets/f3f7881c-e667-4f56-b49b-ee9da473200c)
+![Project Page](https://github.com/user-attachments/assets/91dec09b-957a-4f8c-871d-4d68654b489c)
+![COntact Section](https://github.com/user-attachments/assets/a5691355-989e-4dff-a6ec-c8e88e2d00a7)
+
 
 ---
 
@@ -77,5 +81,5 @@ This project is licensed under the **MIT License** - see the [LICENSE](./LICENSE
 ---
 
 ## GitHub Repository 🔗
-[NextGen-3DPortfolio-Template](https://github.com/yashsakhareliya/NextGen-3DPortfolio-Template)
+[NextGen-3DPortfolio-Template](https://github.com/YashSakhareliya/NextGen-3DPortfolio-Template)
 
