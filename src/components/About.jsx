@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { fadeIn, textVariant } from '../utils/motion'
 import { styles } from "../styles";
 import { services } from "../constants";
-import { StarWrapper } from "../hoc";
+import { SectionWrapper } from "../hoc";
 
 const ServiceCard = ({index, title, icon}) =>(
   <Tilt className='xs:w-[250px] w-full'>
@@ -62,4 +62,4 @@ const About = () => {
   )
 }
 
-export default StarWrapper(About, 'about')
+export default SectionWrapper(About, 'about')
